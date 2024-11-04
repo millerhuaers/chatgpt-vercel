@@ -148,6 +148,42 @@ export default function SettingAction() {
                   {
                     value: "gpt-4o",
                     label: "gpt-4o"
+                  },
+                  {
+                    value: "gpt-4-turbo-2024-04-09",
+                    label: "gpt-4-turbo-2024-04-09"
+                  },
+                  {
+                    value: "claude-3-haiku-20240307",
+                    label: "claude-3-haiku-20240307"
+                  },
+                  {
+                    value: "claude-3-5-sonnet-20240620",
+                    label: "claude-3-5-sonnet-20240620"
+                  },
+                  {
+                    value: "gemini-1.5-pro-latest",
+                    label: "gemini-1.5-pro-latest"
+                  },
+                  {
+                    value: "gemini-1.5-flash-latest",
+                    label: "gemini-1.5-flash-latest"
+                  },
+                  {
+                    value: "Meta-Llama-3.1-70B-Instruct-Turbo",
+                    label: "Meta-Llama-3.1-70B-Instruct-Turbo"
+                  },
+                  {
+                    value: "Meta-Llama-3.1-405B-Instruct-Turbo",
+                    label: "Meta-Llama-3.1-405B-Instruct-Turbo"
+                  },
+                  {
+                    value: "llama-3.1-sonar-large-128k-online",
+                    label: "llama-3.1-sonar-large-128k-online"
+                  },
+                  {
+                    value: "mistral-large-2407",
+                    label: "mistral-large-2407"
                   }
                 ]}
               />
